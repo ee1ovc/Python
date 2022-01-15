@@ -65,3 +65,6 @@ print (name,age)
 #18) Вывести в одну строку переменные типа String и Integer используя “+” (Плюс)
 print(name + str(age))
 # print(name + age) - can only concatenate str (not "int") to str
+#VCS > Git Remotes > https://github.com/ee1ovc/Python.git
+#Git > pull
+#Git > commit push
