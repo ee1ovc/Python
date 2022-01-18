@@ -14,6 +14,7 @@ result_sum = item_1 + item_2
 print('result_sum =',result_sum)
 
 #  #5. Создать переменную result_subtr в которой вы вычитаете большую по значению переменную из меньшей по значению.
+#result_subtr = item_2 - item_1
 number = (item_1,item_2)
 result_subtr = min(number) - max(number)
 
