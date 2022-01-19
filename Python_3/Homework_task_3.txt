@@ -1,6 +1,6 @@
  1. Создать переменную int_item со значением 10
  2. Создать переменную comp_item со значением 18
- 3. Создать переменную mult_int в которй умножите int_item на 2
+ 3. Создать переменную mult_int в которой умножите int_item на 2
  4. Создать переменную item_2 со значением True
  5. Создать переменную item_3 со значением False
  6. Создать переменную item_4 со значением 0
@@ -47,8 +47,8 @@
                     31.2 Создать переменную target_currency со значением eur_item
                     31.3 Создать переменную target_currency_amount значением 50
                     31.4 Создать переменную currency_result со значением 0
-                    31.4 Сделать if в котором будет условие: если target_currency равен ‘eur’, то в теле этого if в        значении переменной currency_result высчитать сколько долларов получится при target_currency_amount и usd_eur_rate. Результат вывести в консоль (target_currency_amount, eur_item, “=”, currency_result, usd_item)
-                    31.5 Сделать elif в котором будет условие: если target_currency равен ‘uah’, то в теле этого if в значении переменной currency_result высчитать сколько долларов получится при target_currency_amount и usd_uah_rate. Результат вывести в консоль (target_currency_amount, uah_item, “=”, currency_result, uah_item)
+                    31.4 Сделать if в котором будет условие: если target_currency равен ‘eur’, то в теле этого if в значении переменной currency_result высчитать сколько долларов получится при target_currency_amount и usd_eur_rate. Результат вывести в консоль (target_currency_amount, eur_item, “=”, currency_result, usd_item)
+                    31.5 Сделать elif в котором будет условие: если target_currency равен ‘uah’, то в теле этого if в значении переменной currency_result высчитать сколько долларов получится при target_currency_amount и usd_uah_rate. Результат вывести в консоль (target_currency_amount, uah_item, “=”, currency_result, usd_item)
                     31.6 Сделать elif с остальными валютами
 …
-                    31.7 Последним оставить else, при выполнений которого в консоль выведется (“Unknow currency”)
+                    31.7 Последним оставить else, при выполнений которого в консоль выведется (“Unknown currency”)
