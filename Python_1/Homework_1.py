@@ -81,12 +81,12 @@ print('c =',c,type(c))
 # 17) Вывести в одну строку переменные типа String и Integer используя “,” (Запятую)
 # c = name, age
 # print(c)
-print(name,age, sep= ",")
+print(name,age, sep= ", ")
 
 # 18) Вывести в одну строку переменные типа String и Integer используя “+” (Плюс)
 # print(name + age) - can only concatenate str (not "int") to str
 
-print(name  + str(age))
+print(f"{name} + {age}")
 
 # Выгрузить файл в Git репозиторий.
 # VCS > Git Remotes > https://github.com/ee1ovc/Python.git
