@@ -105,7 +105,7 @@ if currency_convertor:
 #                     31.1 Создать переменную currency_usd со значением usd_item
     currency_usd = usd_item
 #                     31.2 Создать переменную target_currency со значением eur_item
-    target_currency = eur_item
+    target_currency = rub_item
 #                     31.3 Создать переменную target_currency_amount значением 50
     target_currency_amount = 50
 #                     31.4 Создать переменную currency_result со значением 0
